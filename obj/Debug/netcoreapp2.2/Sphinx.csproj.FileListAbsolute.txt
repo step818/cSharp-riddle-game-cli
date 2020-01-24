@@ -1,0 +1,10 @@
+C:\Users\steph\desktop\TheSphinx\obj\Debug\netcoreapp2.2\Sphinx.csprojAssemblyReference.cache
+C:\Users\steph\desktop\TheSphinx\obj\Debug\netcoreapp2.2\Sphinx.AssemblyInfoInputs.cache
+C:\Users\steph\desktop\TheSphinx\obj\Debug\netcoreapp2.2\Sphinx.AssemblyInfo.cs
+C:\Users\steph\desktop\TheSphinx\bin\Debug\netcoreapp2.2\Sphinx.deps.json
+C:\Users\steph\desktop\TheSphinx\bin\Debug\netcoreapp2.2\Sphinx.runtimeconfig.json
+C:\Users\steph\desktop\TheSphinx\bin\Debug\netcoreapp2.2\Sphinx.runtimeconfig.dev.json
+C:\Users\steph\desktop\TheSphinx\bin\Debug\netcoreapp2.2\Sphinx.dll
+C:\Users\steph\desktop\TheSphinx\bin\Debug\netcoreapp2.2\Sphinx.pdb
+C:\Users\steph\desktop\TheSphinx\obj\Debug\netcoreapp2.2\Sphinx.dll
+C:\Users\steph\desktop\TheSphinx\obj\Debug\netcoreapp2.2\Sphinx.pdb
